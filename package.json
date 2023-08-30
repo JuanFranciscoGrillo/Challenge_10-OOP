@@ -1,0 +1,22 @@
+{
+  "name": "challenge_10-oop",
+  "version": "1.0.0",
+  "description": "Repository contains Module 10 Challenge",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
