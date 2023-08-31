@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const { Triangle, Circle, Square } = require('./lib/shapes'); // Corrected relative path
+const { Triangle, Circle, Square } = require('./lib/shapes');
 
 async function getUserInput() {
   const userInput = await inquirer.prompt([
