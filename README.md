@@ -61,7 +61,9 @@ If you have any questions or need further assistance, feel free to reach out:
 - Email: jfrgm1986@gmail.com
 
 ## Demo
-[![Video Demo](https://i.ytimg.com/an_webp/Gj5HYUCU2W0/mqdefault_6s.webp?du=3000&sqp=CKfjxKcG&rs=AOn4CLCcsX9fOC81FF__X3PIZmAFuGmIfg)(https://www.youtube.com/watch?v=WN2YFvABzHI)]
+
+[![Video Thumbnail](https://img.youtube.com/vi/WN2YFvABzHI/0.jpg)](https://www.youtube.com/watch?v=WN2YFvABzHI)
+
 
 
 
